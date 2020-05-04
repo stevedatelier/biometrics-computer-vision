@@ -1,2 +1,1 @@
-# biometrics-computer-vision
-Biometric Authentication of Cattle
+#Biometric Authentication of Cattle
