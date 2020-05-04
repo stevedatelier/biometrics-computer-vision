@@ -7,5 +7,5 @@ Some time ago I came to the painful realization that much of what we perceive ab
 
 <p align="right"><small><sup>by Steve d'Atelier</sup></small></p>
 
-## Biometric Authentication of Cattle PDF
-https://github.com/stevedatelier/computer-vision-biometrics-in-cattle-ranching/blob/master/Steve%20Goa%20Final%20Thesis.docx.pdf
+## [Biometric Authentication of Cattle PDF](https://github.com/stevedatelier/computer-vision-biometrics-in-cattle-ranching/blob/master/Steve%20Goa%20Final%20Thesis.docx.pdf)
+
